@@ -1,3 +1,1 @@
-95.31.100.167:50950:Default local server
 
-107.161.31.200:27023:Tribunal del Distrito 9 [Espanol]
